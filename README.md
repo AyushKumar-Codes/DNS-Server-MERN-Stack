@@ -99,7 +99,8 @@ dig @localhost <your-domain>
 Replace `<your-domain>` with the domain you want to query.
 
 ## Screenshot
-React.js UI Screenshot
+![Screenshot 2024-12-31 204252](https://github.com/user-attachments/assets/dbe16c3c-345d-46a0-8f43-fafde713a613)
+![Screenshot 2024-12-31 204309](https://github.com/user-attachments/assets/d93b8db1-f051-42a7-b0e2-d5ca4bbc6c48)
 
 ## Dependencies
 
