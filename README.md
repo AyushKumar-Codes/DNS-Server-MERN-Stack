@@ -89,6 +89,13 @@ Replace `<your-domain>` with the domain you want to query.
 ![Screenshot 2024-12-31 204252](https://github.com/user-attachments/assets/dbe16c3c-345d-46a0-8f43-fafde713a613)
 ![Screenshot 2024-12-31 204309](https://github.com/user-attachments/assets/d93b8db1-f051-42a7-b0e2-d5ca4bbc6c48)
 
+## Video Demonstration 📹
+
+Check out the video demonstration on LinkedIn to see the app in action:
+
+[Watch the Video](https://www.linkedin.com/posts/ayush---kumar_mernstack-reactjs-nodejs-activity-7279892574864089088-n-x7?utm_source=share&utm_medium=member_desktop)
+
+
 ## Dependencies
 
 ### Backend
